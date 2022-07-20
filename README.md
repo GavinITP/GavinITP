@@ -14,7 +14,3 @@ My name is Gavin I'm a computer engineering student at Chulalongkorn University 
 [![My Skills](https://skillicons.dev/icons?i=git,python,html,css,js,tailwind)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinITP)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🤙🏻 Contact Me
-
-- Email : gavinitp.jan1n@slmail.me
