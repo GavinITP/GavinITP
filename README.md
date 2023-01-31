@@ -16,4 +16,4 @@ My name is Ittipat Yodprasit, and I'm currently a Computer Engineering student w
 
 ## 🤙🏻 Contact me
 - Github : GavinITP 
-- Discord : GavinITP#0370  
+- LinkedIn : Ittipat Yodprasit 
