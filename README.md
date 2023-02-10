@@ -12,5 +12,8 @@ My name is Ittipat Yodprasit, and I'm currently a Computer Engineering student w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinITP)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤙🏻 Contact me
-- Github : GavinITP 
-- LinkedIn : Ittipat Yodprasit 
+- Email: ittipat.mailforwork@gmail.com
+- Github: [GavinITP](https://github.com/GavinITP)
+- LinkedIn: [Ittipat Yodprasit](https://www.linkedin.com/in/ittipat-yodprasit/)
+
+
