@@ -5,9 +5,9 @@
 My name is Ittipat Yodprasit, and I'm currently a Computer Engineering student with a focus on front-end development. skilled in developing interactive websites using HTML, CSS, JavaScript, React.js, Next.js, and so on. looking for an internship opportunity to work on challenging projects and gain valuable experience in the industry.
 
 ## 🛠 Skills
-#### Git/ Python/ HTML/ CSS/ JS/ React.js/ Next.js/ Tailwind CSS
+#### Git/ Python/ HTML/ CSS/ JS/ TS/ React/ Next.js/ Tailwind/ Bootstrap/ Chakra
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,html,css,js,react,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,html,css,js,ts,react,next,tailwind,bootstrap)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinITP)](https://github.com/anuraghazra/github-readme-stats)
 
