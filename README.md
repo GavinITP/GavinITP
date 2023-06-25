@@ -1,5 +1,5 @@
 # 😁 Ittipat Yodprasit <img src="https://github.com/GavinITP/GavinITP/blob/main/wave.gif" width="35px">
-![About Me](https://github.com/GavinITP/GavinITP/blob/main/CHECK%20IT%20OUT.png?raw=true)
+![About Me](https://github.com/GavinITP/GavinITP/blob/main/gavinitp-banner.png)
 
 ## 🚀 About me
 My name is Ittipat Yodprasit, and I'm currently a Computer Engineering student with a focus on front-end development. skilled in developing interactive websites using HTML, CSS, JavaScript, React.js, Next.js, and so on. looking for an internship opportunity to work on challenging projects and gain valuable experience in the industry.
