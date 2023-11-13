@@ -14,8 +14,8 @@ React.js, Next.js, TailwindCSS, Chakra UI, Figma, Git, Redux, Node.js, Express.j
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinITP)](https://github.com/anuraghazra/github-readme-stats)
 
-## Experiences
-![Experiences](https://github.com/GavinITP/GavinITP/blob/main/winner.png)
+## Experience
+![Experience](https://github.com/GavinITP/GavinITP/blob/main/winner.png)
 - Automation Engineer, Data Automation Freelance Project | August 2023
 - Full-Stack Developer, TableTrack, Restaurant CRM Project (The Winner Team of HighTech Sandbox) | June 2023 - July 2023
 - DevOps Engineer, CU Newbie Project | February 2023 -  March 2023
