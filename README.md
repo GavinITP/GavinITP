@@ -2,7 +2,7 @@
 ![About Me](https://github.com/GavinITP/GavinITP/blob/main/gavinitp-banner.png)
 
 ## Profile
-I'm currently a third-year student in computer engineering at Chulalongkorn University with experience in software engineering. I am seeking an internship to work on challenging projects and gain valuable industry experience.
+I'm currently a student in computer engineering at Chulalongkorn University with experience in software engineering. I am seeking an internship to work on challenging projects and gain valuable industry experience.
 
 ## Skills
 ### Programming Languages
