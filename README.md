@@ -3,12 +3,17 @@
 
 ## Skills
 ### Programming Languages
-HTML, CSS, JavaScript, TypeScript, Python, Java, C++, SQL, Go
+JavaScript, TypeScript, Python, Go, SQL, C, C++, Java
 
-### Technologies (Libraries, Frameworks, Tools)
-React.js, Next.js, Vue.js, TailwindCSS, Express.js, MongoDB, PostgreSQL, Firebase
+### Libraries & Frameworks
+React.js, Next.js, Vue.js, Node.js, Express.js
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,express,mongodb,postgresql,firebase)](https://skillicons.dev)
+### Tools
+MongoDB, PostgreSQL, Firebase, HTML, CSS, SCSS, Tailwind CSS, AWS EC2
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,golang,react,next,tailwind,express,mongodb,postgresql,firebase)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinITP)](https://github.com/anuraghazra/github-readme-stats)
 
