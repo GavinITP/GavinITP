@@ -2,12 +2,10 @@
 ![About Me](https://github.com/GavinITP/GavinITP/blob/main/gavinitp-banner.png)
 
 ## Skills
-### Languages & Frameworks
-JavaScript, TypeScript, Python, Go, SQL, C++, Java, React.js, Next.js, Vue.js, Node.js, Express.js, Nest.js
-
-### Tools
-Git, Github, Docker, AWS, MongoDB, PostgreSQL, Firebase, GraphQL, HTML, CSS, SCSS, TailwindCSS
-
+- Languages: JavaScript, TypeScript, Python, Go, SQL, C++, Java, Bash​
+- Frameworks & Libraries: React.js, Next.js, Vue.js, Svelte.js, Node.js, Express.js, Nest.js, Fiber​
+- Databases & Cloud: MongoDB, PostgreSQL, SQLite, Firebase, AWS​
+- Tools & Other: Git/GitHub, GraphQL, Docker, HTML, CSS, SCSS, TailwindCSS
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,golang,react,next,tailwind,express,mongodb,postgresql,firebase)](https://skillicons.dev)
 
