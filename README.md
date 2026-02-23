@@ -2,8 +2,8 @@
 ![About Me](https://github.com/GavinITP/GavinITP/blob/main/gavinitp-banner.png)
 
 ## Skills
-- Languages: JavaScript, TypeScript, Python, Go, SQL, C++, Java, Bash​
-- Frameworks & Libraries: React.js, Next.js, Vue.js, Svelte.js, Node.js, Express.js, Nest.js, Fiber​
+- Languages: JavaScript, TypeScript, Python, Go, SQL, C#​
+- Frameworks & Libraries: React.js, Next.js, Vue.js, Angular.js, Node.js, Express.js, ASP.NET Core​
 - Databases & Cloud: MongoDB, PostgreSQL, SQLite, Firebase, AWS​
 - Tools & Other: Git/GitHub, GraphQL, Docker, HTML, CSS, SCSS, TailwindCSS
 
